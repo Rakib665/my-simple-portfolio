@@ -114,4 +114,20 @@ body {
   #fourth-section .inner-content {
     padding-right: 106px;
   }
-  
+  #fifth-section .inner-content {
+    padding-left: 72px;
+  }
+  form .form-control {
+    width: 90%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    padding: 16px;
+  }
+  form .form-control:active {
+    border: none;
+  }
+  form .btn-primary {
+    margin-top: 30px;
+    border: none;
+  }
