@@ -107,3 +107,11 @@ body {
   #third-sec {
     background: #fff4d6;
   }  
+
+  #third-section .inner-content {
+    padding-left: 72px;
+  }
+  #fourth-section .inner-content {
+    padding-right: 106px;
+  }
+  
