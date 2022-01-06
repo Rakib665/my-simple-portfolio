@@ -81,3 +81,29 @@ body {
     border-radius: 5px;
     margin-right: 13px;
   }
+
+  /* second section -    */
+
+  #second-section .card p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .card {
+    width: 320px;
+    padding: 20px;
+    border-radius: 26px;
+  }
+  .card img {
+    width: 140px;
+    height: 140px;
+  }
+  
+  #first-sec {
+    background: rgba(79, 157, 166, 0.1);
+  }
+  #second-sec {
+    background: rgba(255, 89, 89, 0.1);
+  }
+  #third-sec {
+    background: #fff4d6;
+  }  
